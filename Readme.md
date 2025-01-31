@@ -1,4 +1,4 @@
-# Minecrade but Sub=TP
+# Minecraft but Sub=TP - RCON Server
 
 ## Install Required Module
 
